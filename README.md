@@ -17,3 +17,20 @@ npm install -g @google/gemini-cli
 ```bash
 gemini
 ```
+## VSCode
+
+VScode統合の拡張機能のインストール。
+
+```bash
+/ide install
+```
+
+# 以降
+
+```bash
+# 有効化
+/ide enable
+
+# 無効化
+/ide disable
+```
