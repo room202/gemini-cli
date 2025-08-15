@@ -19,13 +19,13 @@ gemini
 ```
 ## VSCode
 
-VScode統合の拡張機能のインストール。
+VScode統合の拡張機能のインストール
 
 ```bash
 /ide install
 ```
 
-# 以降
+以降は
 
 ```bash
 # 有効化
